@@ -1,6 +1,7 @@
 #coding=utf-8
 from datetime import datetime
 
+# author zhangsaiyong
 def stringToDateDay(str):
     '''
     根据string返回对应的日期
